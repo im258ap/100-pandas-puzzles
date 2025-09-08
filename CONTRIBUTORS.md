@@ -4,12 +4,12 @@ Many thanks to the following contributors for their puzzles and fixes.
 
 ## Puzzles
 
-- [@johink](https://github.com/johink) - the plotting puzzles 56-60
+- [@johink](https://github.com/johink) - the plotting puzzles 56-6
 
 ## Solutions
 
-- [@madrury](https://github.com/madrury) - third solution to puzzle 29
-- [@xonoma](https://github.com/xonoma) - non-`ix` solution to puzzle 8
+- [@madrury](https://github.com/madrury) - third solution to puzzle 2
+- [@xonoma](https://github.com/xonoma) - non-`ix` solution to puzzle 
 
 ## Fixes
 
